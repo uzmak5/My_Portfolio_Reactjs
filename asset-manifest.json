@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio_Reactjs/static/css/main.61789814.chunk.css",
+    "main.js": "/My_Portfolio_Reactjs/static/js/main.fb3d7589.chunk.js",
+    "main.js.map": "/My_Portfolio_Reactjs/static/js/main.fb3d7589.chunk.js.map",
+    "runtime-main.js": "/My_Portfolio_Reactjs/static/js/runtime-main.8b4256e6.js",
+    "runtime-main.js.map": "/My_Portfolio_Reactjs/static/js/runtime-main.8b4256e6.js.map",
+    "static/css/2.5dfbe09b.chunk.css": "/My_Portfolio_Reactjs/static/css/2.5dfbe09b.chunk.css",
+    "static/js/2.e33ecec0.chunk.js": "/My_Portfolio_Reactjs/static/js/2.e33ecec0.chunk.js",
+    "static/js/2.e33ecec0.chunk.js.map": "/My_Portfolio_Reactjs/static/js/2.e33ecec0.chunk.js.map",
+    "static/js/3.a3c67b57.chunk.js": "/My_Portfolio_Reactjs/static/js/3.a3c67b57.chunk.js",
+    "static/js/3.a3c67b57.chunk.js.map": "/My_Portfolio_Reactjs/static/js/3.a3c67b57.chunk.js.map",
+    "index.html": "/My_Portfolio_Reactjs/index.html",
+    "static/css/2.5dfbe09b.chunk.css.map": "/My_Portfolio_Reactjs/static/css/2.5dfbe09b.chunk.css.map",
+    "static/css/main.61789814.chunk.css.map": "/My_Portfolio_Reactjs/static/css/main.61789814.chunk.css.map",
+    "static/js/2.e33ecec0.chunk.js.LICENSE.txt": "/My_Portfolio_Reactjs/static/js/2.e33ecec0.chunk.js.LICENSE.txt",
+    "static/media/Uzma_Nareen.fc863875.pdf": "/My_Portfolio_Reactjs/static/media/Uzma_Nareen.fc863875.pdf",
+    "static/media/about.fab1b3aa.png": "/My_Portfolio_Reactjs/static/media/about.fab1b3aa.png",
+    "static/media/api.7df67d57.png": "/My_Portfolio_Reactjs/static/media/api.7df67d57.png",
+    "static/media/ecommerce.ca2ce7f1.png": "/My_Portfolio_Reactjs/static/media/ecommerce.ca2ce7f1.png",
+    "static/media/grade.4806d9c3.png": "/My_Portfolio_Reactjs/static/media/grade.4806d9c3.png",
+    "static/media/style.css": "/My_Portfolio_Reactjs/static/media/pre.d4812f51.svg",
+    "static/media/home1.f1e21bc2.png": "/My_Portfolio_Reactjs/static/media/home1.f1e21bc2.png",
+    "static/media/home2.1a9cfd01.png": "/My_Portfolio_Reactjs/static/media/home2.1a9cfd01.png",
+    "static/media/leetcode.082c3f61.png": "/My_Portfolio_Reactjs/static/media/leetcode.082c3f61.png",
+    "static/media/logo2.dd572e0c.png": "/My_Portfolio_Reactjs/static/media/logo2.dd572e0c.png",
+    "static/media/resume.ad817c2a.png": "/My_Portfolio_Reactjs/static/media/resume.ad817c2a.png",
+    "static/media/shopping.d9f592f7.png": "/My_Portfolio_Reactjs/static/media/shopping.d9f592f7.png",
+    "static/media/weather.932de8de.png": "/My_Portfolio_Reactjs/static/media/weather.932de8de.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b4256e6.js",
+    "static/css/2.5dfbe09b.chunk.css",
+    "static/js/2.e33ecec0.chunk.js",
+    "static/css/main.61789814.chunk.css",
+    "static/js/main.fb3d7589.chunk.js"
+  ]
+}
